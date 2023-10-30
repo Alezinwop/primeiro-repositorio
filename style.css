@@ -7,7 +7,7 @@ img {
 }
 
 .apresentacao{
-    background: #FFFFFF;
+    background: #88ebca;
     padding: 30px;
 }
 
@@ -31,4 +31,15 @@ em strong {
 
 h2 {
     text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembenficios {
+    width: 45%;
 }
